@@ -14,6 +14,8 @@ function App() {
       <input type="text" placeholder='Book Title' name="" id="" />
 
       <input type="text" placeholder='Release Date ' name="" id="" />
+
+      <input type="text" name="" id="" />
     </div>
     
     </>
